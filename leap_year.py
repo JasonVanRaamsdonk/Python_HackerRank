@@ -1,5 +1,6 @@
 # Jason van Raamsdonk
 
+
 def is_leap(year):
 
     if year % 400 == 0:
@@ -11,5 +12,5 @@ def is_leap(year):
     return False
 
 
-year = int(input())
-print(is_leap(year))
+year = int(input("Enter a year number: "))
+print("{} is leap year : {}" .format(year, is_leap(year)))
