@@ -1,4 +1,3 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 
 # -> Mat size must be NxM. (N is an odd natural number, and M is 3 times N.)
 # -> The design should have 'WELCOME' written in the center.
