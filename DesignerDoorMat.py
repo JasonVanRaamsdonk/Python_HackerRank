@@ -2,7 +2,7 @@
 # -> Mat size must be NxM. (N is an odd natural number, and M is 3 times N.)
 # -> The design should have 'WELCOME' written in the center.
 # -> The design pattern should only use |, . and - characters.
-
+# @Jason van Raamsdonk
 N, M = map(int,input().split())
 
 for i in range(int(N/2)):
